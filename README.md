@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Win, and I'm a high school student currently in team 14683A Matador looking forward to get into the VEX worlds next year! 
+
+- 🔭 I’m currently working on VEX, building an new system for the new season, [Push Back](https://www.youtube.com/watch?v=ocmONiVun9M&t=2s&pp=ygUJcHVzaCBiYWNr)! 
+- 🌱 I’m currently learning the PROS extension and odomoetry. 
+- 👯 I’m looking to collaborate on developing open source libraries. 
 
 <!--
 **WinYeh/WinYeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
