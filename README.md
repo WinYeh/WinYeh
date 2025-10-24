@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-#### I'm Win, a high school student who acticipates to get into the VEX worlds next year! 
+#### I'm Win, a high school student who acticipates to get into the VEX worlds for 2026! 
 
 🔥 Currently enrolled in VEX team 14683A Matador <br/>
-⛳️ Developer of the [VEX Interface Library]() <br/>
-👀 Looking foward to collaborate on developing other open source libraries.<br/>
+🐣 Founder and developer of the [VEX Interface Library](https://github.com/WinYeh/WLIC-WinLib_InterfaceClass.git) <br/>
+👀 Looking foward to collaborate on developing other open-source libraries.<br/>
 
 <!-- Github stats from  github.com/anuraghazra/github-readme-stats -->
 
